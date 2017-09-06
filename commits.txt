@@ -1,0 +1,23 @@
+commit cef37fed418d49f777077b71e27ed473c6a3dc86
+Author: jnino <jnino@itfactoria.com>
+Date:   Wed Sep 6 11:00:52 2017 -0500
+
+    Lili y Jorge
+
+commit 75c811a27135b4c52a5140c448da74cf7515084a
+Author: jnino <jnino@itfactoria.com>
+Date:   Wed Sep 6 10:55:17 2017 -0500
+
+    Ramo y Mario
+
+commit 9c83685c35c6d9441e5704279d8294f5c79f9f24
+Author: jnino <jnino@itfactoria.com>
+Date:   Wed Sep 6 10:51:47 2017 -0500
+
+    Coris y Trinis
+
+commit 6f5d602df0307574cc54608d8f06eb25abaa3087
+Author: ninojairo <nino.jairo@gmail.com>
+Date:   Wed Aug 23 17:10:00 2017 -0500
+
+    Initial commit
